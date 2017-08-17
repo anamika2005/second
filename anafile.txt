@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hgdksjgd
+=======
+kug
+>>>>>>> 5c8b1fe0983f3ec2a5ae041e6837c48d81a4faf3
